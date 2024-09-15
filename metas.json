@@ -1,7 +1,7 @@
 [
   {
     "value": "tomar 3l de água por dia ",
-    "checked": false
+    "checked": true
   },
   {
     "value": "Correr",
@@ -9,6 +9,10 @@
   },
   {
     "value": "Estudar",
+    "checked": false
+  },
+  {
+    "value": "Correr 1km",
     "checked": false
   }
 ]
